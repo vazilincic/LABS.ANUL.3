@@ -15,6 +15,5 @@ products = [
     Juice('Naturalis'),
     SoftDrink('CocaCola'),
 ]
-
-# product_originary(products)
- product_description(products)
+product_originary(products)
+product_description(products)
