@@ -3,7 +3,7 @@ from juice import Juice
 from softDrink import SoftDrink
 
 def product_originary(products: list):
-    for product in Products:
+    for product in products:
         print(product.get_originary())
 
 def product_description(products: list):
